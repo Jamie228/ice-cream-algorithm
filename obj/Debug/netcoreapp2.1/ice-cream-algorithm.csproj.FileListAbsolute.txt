@@ -1,0 +1,11 @@
+H:\GitHub\ice-cream-algorithm\bin\Debug\netcoreapp2.1\ice-cream-algorithm.deps.json
+H:\GitHub\ice-cream-algorithm\bin\Debug\netcoreapp2.1\ice-cream-algorithm.runtimeconfig.json
+H:\GitHub\ice-cream-algorithm\bin\Debug\netcoreapp2.1\ice-cream-algorithm.runtimeconfig.dev.json
+H:\GitHub\ice-cream-algorithm\bin\Debug\netcoreapp2.1\ice-cream-algorithm.dll
+H:\GitHub\ice-cream-algorithm\bin\Debug\netcoreapp2.1\ice-cream-algorithm.pdb
+H:\GitHub\ice-cream-algorithm\obj\Debug\netcoreapp2.1\ice-cream-algorithm.csprojAssemblyReference.cache
+H:\GitHub\ice-cream-algorithm\obj\Debug\netcoreapp2.1\ice-cream-algorithm.csproj.CoreCompileInputs.cache
+H:\GitHub\ice-cream-algorithm\obj\Debug\netcoreapp2.1\ice-cream-algorithm.AssemblyInfoInputs.cache
+H:\GitHub\ice-cream-algorithm\obj\Debug\netcoreapp2.1\ice-cream-algorithm.AssemblyInfo.cs
+H:\GitHub\ice-cream-algorithm\obj\Debug\netcoreapp2.1\ice-cream-algorithm.dll
+H:\GitHub\ice-cream-algorithm\obj\Debug\netcoreapp2.1\ice-cream-algorithm.pdb
